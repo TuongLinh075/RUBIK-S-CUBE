@@ -1,2 +1,1 @@
-# LINK 
-VIDEO: https://youtu.be/sEGKqXdffmA
+linkyoutube: https://youtu.be/sEGKqXdffmA
