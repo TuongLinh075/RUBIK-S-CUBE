@@ -9,9 +9,8 @@ An AI-powered robotic system that **recognizes colors and solves a Rubik’s Cub
 - Servo-controlled mechanical arm for precise cube manipulation.
 
 ## ⚙️ Setup & Dependencies
-To get started, install the required Python libraries:
--pip install pytorch
--pip install scikit-learn
+To get started....
+To Updating
 
 ## 📺 Demo Video
 👉 https://youtu.be/sEGKqXdffmA
