@@ -9,8 +9,7 @@ An AI-powered robotic system that **recognizes colors and solves a Rubik’s Cub
 - Servo-controlled mechanical arm for precise cube manipulation.
 
 ## ⚙️ Setup & Dependencies
-To get started....
-To Updating
+Updating....
 
 ## 📺 Demo Video
 👉 https://youtu.be/sEGKqXdffmA
